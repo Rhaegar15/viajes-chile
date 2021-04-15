@@ -2,6 +2,7 @@
 
 body{
     font-family: 'Raleway', sans-serif;
+    background-color: black;
 }
 .navPading{
     padding: 0 3rem 0 3rem;
@@ -10,4 +11,13 @@ body{
     width: 2.5rem;
     height: 2.5rem;
     object-fit: contain;
+}
+.lineaBorder{
+    border-bottom: 2px solid #085159;
+}
+.borderguia{
+    border: 2px solid red;
+}
+.texto{
+    line-height: 1.8;
 }
