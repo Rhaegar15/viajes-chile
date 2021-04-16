@@ -20,4 +20,11 @@ body{
 }
 .texto{
     line-height: 1.8;
+    font-weight: 300;
+}
+h2{
+    font-weight: 700;
+}
+h4{
+    font-weight: 700;
 }
